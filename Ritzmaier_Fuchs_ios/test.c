@@ -7,7 +7,7 @@ public void thisIsANewMethod() {
     printf("Hallo");
 }
 int x = 10;
-
+printf("now it works");
 char y = 's';
 
 float z = 34,5;
