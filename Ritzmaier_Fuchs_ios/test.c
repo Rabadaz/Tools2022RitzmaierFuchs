@@ -6,3 +6,5 @@ public void thisIsANewMethod() {
 }
 int x = 10;
 
+char y = 's';
+
