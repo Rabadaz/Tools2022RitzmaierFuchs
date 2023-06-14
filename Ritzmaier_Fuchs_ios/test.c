@@ -8,3 +8,4 @@ int x = 10;
 
 char y = 's';
 
+float z = 34,5;
